@@ -3,7 +3,7 @@
 Page layout with an interactive form and other page components./
 The application is created using Next.js. Styled components are used for styling.
 
-[DEMO](https://property-valuation-page-j5vc2j5of-ivan-vasylenkos-projects.vercel.app/)
+[DEMO](https://property-valuation-page.vercel.app/)
 
 ## Tech stack
 - Next.js
